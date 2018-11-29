@@ -1,0 +1,13 @@
+[TEST-VM]
+10.32.210.82
+
+[TEST-VM.0]
+10.32.210.82
+
+[all]
+10.32.210.82
+
+[all:vars]
+
+[type_vsphere_virtual_machine]
+10.32.210.82
